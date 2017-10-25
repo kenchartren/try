@@ -1,0 +1,36 @@
+---
+title: "Introduction to Derivatives"
+output: html_document
+fontsize: 15pt
+geometry: margin=1in
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+> Derivatives are very complicated for most of us. The reason is that this field contains a lot of sophisticated concepts and theories. The paragraphs in the textbooks are somewhat too obscure to understand. So I try to explain these theories in the plain or understandable words in the following. By the way, recommendations and suggestions are very welcomed. 
+
+Let's Begin!
+
+# Fundamental theory and concept
+If someone asks you what the derivatives reminds you of, the first things you come up with are the core theories and concepts. 
+
+So do I.
+
+I list the key words in the following as the tentative outline of my essay:
+
+1. Risk Neutral Valuation
+2. No-arbitrage & self-financing
+3. Brownian Motion
+4. Martingales and change of Measures
+5. Ito Lemma
+6. Black-Scholes Formula and its Assumptions
+7. Greek Letter
+8. Binomial Tree
+9. Value at Risk
+
+If necessary, new content would be added. Actually the topics are interrelated and can't be explained separately. So I would cross-refer in some parts.
+
+# 1. Risk Neutral Valuation
+In financial intuition, risk neutral world means that in such scenario investors do not increase the expected return required from an investment to compensate for the increased risk.

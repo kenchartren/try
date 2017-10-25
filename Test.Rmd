@@ -1,0 +1,19 @@
+---
+title: "Test"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# math formula
+we have *exponential* formula $f(\frac{1}{x}) = e^{\frac{1}{x}}$
+$$
+g(t; T, \delta t) = \sum{1 + 2}
+$$
+
+$$
+\bf{A}\it{C}\mathcal{P}\mathscr{F}\mathbb{R}\mathfrak{K}
+$$
+
